@@ -4,7 +4,7 @@ body {
     padding: 2rem;
   }
   
-  .container {
+  div {
     background: white;
     padding: 2rem;
     max-width: 600px;
